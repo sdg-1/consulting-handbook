@@ -51,6 +51,7 @@ This guide is meant to help data engineers, software engineers, analysts, data s
 
 
 - [Buidling A Website and Online Presence](https://www.youtube.com/watch?v=oSeU8X5uuvs)
+- [How To Get Clients](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743748-intro-to-getting-clients)
 - [Client Acquisition - Networking]() #TODO Write this article
 - [Client Acquisition - Marketing](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
 - [Client Acquisition - Sales](https://dcubed.substack.com/p/how-to-sell-your-data-consulting)
