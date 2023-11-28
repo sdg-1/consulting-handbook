@@ -1,4 +1,5 @@
 # The Data Analytics Consulting Handbook
+This guide is meant to help data engineers, software engineers(despite its name), analysts, data scientists and other technical specialists break into consulting
 
 # Table Of Contents
 - [Consulting Templates](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#consulting-templates)
