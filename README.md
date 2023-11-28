@@ -21,6 +21,7 @@ This guide is meant to help data engineers, software engineers(despite its name)
 - [Onboarding Checklist](https://docs.google.com/spreadsheets/d/1SwXRj7dY40Sr2pEhdqh30F-cRTpAicsZtLBJKQSA7vg/edit#gid=0)
 - [Data Infra Audit Template](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/pdfs/46561785-data-infra-audit-example)
 - [Project Update Email](https://docs.google.com/document/d/1FfJeYtzmvrR-1ZJ7iWmhmzOSf5dZInTkzGo2aTye7Ts/edit#heading=h.euhkduit0zl8)
+- [Original Source For Templates Above](https://seattledataguy.substack.com/p/7-essential-templates-for-data-analytics)
 
 ## Youtube Channels
 
