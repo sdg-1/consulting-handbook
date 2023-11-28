@@ -88,6 +88,8 @@ This guide is meant to help data engineers, software engineers(despite its name)
 - [Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling](https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ)
 - [HBR's 10 Must Reads on Communication](https://www.amazon.com/Communication-featured-Necessary-Persuasion-Conger-ebook/dp/B00ATLM07Q/)
 
+### Marketing
+- [‘The Art and Business of Online Writing: How to Beat the Game of Capturing and Keeping Attention’ by Nicolas Cole.](https://www.amazon.com/Art-Business-Online-Writing-Capturing/dp/0998203491)
 
 ## Project Examples
 - [Consulting Project Example - Embedded Analytics Discovery Project](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/49706934-consulting-project-example-embedded-analytics-discovery-project)
