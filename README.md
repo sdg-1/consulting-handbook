@@ -35,9 +35,21 @@ This guide is meant to help data engineers, software engineers(despite its name)
 
 - Make the jump!
 - [Pick Your Niche](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743530-finding-a-niche) 
-- [Legal Setup]()
-- [Get Insurance]()
-- [Website and Online Presence]()
+- [Legal Setup](https://www.freshbooks.com/hub/startup/starting-small-business-legal-requirements)
+- [Get Insurance](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance)
+
+  
+| Insurance type                 | Who it's for                                          | What it does |
+|--------------------------------|-------------------------------------------------------|--------------|
+| General liability insurance    | Any business                                          | This coverage protects against financial loss as the result of bodily injury, property damage, medical expenses, libel, slander, defending lawsuits, and settlement bonds or judgments. |
+| Product liability insurance    | Businesses that manufacture, wholesale, distribute, and retail a product | This coverage protects against financial loss as a result of a defective product that causes injury or bodily harm. |
+| Professional liability insurance | Businesses that provide services to customers       | This coverage protects against financial loss as a result of malpractice, errors, and negligence. |
+| Commercial property insurance  | Businesses with a significant amount of property and physical assets | This coverage protects your business against loss and damage of company property due to a wide variety of events such as fire, smoke, wind and hail storms, civil disobedience and vandalism. |
+| Home-based business insurance  | Businesses that are run out of the owner’s personal home | Coverage that’s added to homeowner’s insurance as a rider can offer protection for a small amount of business equipment and liability coverage for third-party injuries. |
+| Business owner’s policy        | Most small business owners, but especially home-based business owners | A business owner’s policy is an insurance package that combines all of the typical coverage options into one bundle. They simplify the insurance buying process and can save you money. |
+
+
+- [Buidling A Website and Online Presence](https://www.youtube.com/watch?v=oSeU8X5uuvs)
 - [Client Acquisition - Networking]() #TODO Write this article
 - [Client Acquisition - Marketing](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
 - [Client Acquisition - Sales](https://dcubed.substack.com/p/how-to-sell-your-data-consulting)
