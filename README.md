@@ -64,6 +64,7 @@ This guide is meant to help data engineers, software engineers(despite its name)
 
 
 ### Marketing Deeper Dive - Content That's Landed Me Clients Example 
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99624145-9e6c-4e03-8915-e43f7d5f2cc6_2112x1526.png)
 - [Why Data Engineers LOVE/HATE Airflow ](https://www.youtube.com/watch?v=h5X3124R61U)
 - [4 Alternatives to Fivetran: The Evolving Dynamics of the ETL & ELT Tool Market](https://www.theseattledataguy.com/4-alternatives-to-fivetran-the-evolving-dynamics-of-the-etl-elt-tool-market/#page-content)
 - [Do You REALLY Need A Data Warehouse - What Are The Benefits Of A Data Warehouse?](https://www.youtube.com/watch?v=0DsaafI1fTQ)
