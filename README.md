@@ -1,6 +1,8 @@
 # The Consulting Handbook
 This guide is meant to help data engineers, software engineers, analysts, data scientists and other technical specialists break into consulting.
 
+Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a purchase or not.
+
 # Table Of Contents
 - [Consulting Templates](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#consulting-templates)
 - [Youtube Channels](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#youtube-channels)
