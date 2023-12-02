@@ -1,5 +1,5 @@
 # The Consulting Handbook
-This guide is meant to help data engineers, software engineers, analysts, data scientists and other technical specialists break into consulting
+This guide is meant to help data engineers, software engineers, analysts, data scientists and other technical specialists break into consulting.
 
 # Table Of Contents
 - [Consulting Templates](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#consulting-templates)
@@ -81,7 +81,7 @@ This guide is meant to help data engineers, software engineers, analysts, data s
 - [The Trusted Advisor](https://www.amazon.com/Trusted-Advisor-David-H-Maister-ebook/dp/B000FC0VWA/r)
 
 ### Leadership
-- [The Five Dysfunctions of a Team: A Leadership Fable]([https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ](https://www.amazon.com/Five-Dysfunctions-of-Team-audiobook/dp/B000079XXR/ref=sr_1_31?crid=37DZSYSUD2LVH))
+- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ](https://www.amazon.com/Five-Dysfunctions-of-Team-audiobook/dp/B000079XXR/ref=sr_1_31?crid=37DZSYSUD2LVH))
 - [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2)
 
@@ -109,12 +109,10 @@ This guide is meant to help data engineers, software engineers, analysts, data s
 - [Soft skills Podcast](https://softskills.audio/)
 - [The McKinsey Podcast](https://podcasts.apple.com/us/podcast/the-mckinsey-podcast/id285260960?mt=2)
 
-
 ## Newsletters
 - [Technical Freelancer Academy(Dcubed)](https://dcubed.substack.com/)
 - [The Hustle](https://thehustle.co/daily/)
 - [CB Insights](https://www.cbinsights.com/newsletter/)
-
   
 ## Courses
 - [Technical Freelancer Academy](https://courses.technicalfreelanceracademy.com/courses/starting-6-7-figure-consulting)
