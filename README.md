@@ -10,6 +10,7 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 - [Books](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#books)
 - [Podcasts](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#podcasts)
 - [Newsletters](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#newsletters)
+- [Communities](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#Communities)
 
 # Resources
 
@@ -115,6 +116,9 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 - [Technical Freelancer Academy(Free)](https://dcubed.substack.com/)
 - [The Hustle(Free)](https://thehustle.co/daily/)
 - [CB Insights(Free)](https://www.cbinsights.com/newsletter/)
+
+## Communities
+- [Technical Freelancer Community](https://the-technical-freelancer-academy.circle.so/c/resources/)
   
 ## Courses
 - [Technical Freelancer Academy(Paid)](https://courses.technicalfreelanceracademy.com/courses/starting-6-7-figure-consulting)
