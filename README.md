@@ -61,6 +61,7 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 - [Client Acquisition - Vendor Partnerships(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080213-vendor-partnerships)
 - [Client Acquisition - Referrals(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/48562280-using-client-referrals-to-sell)
 - [Develop a Sales Pitch(Free)](https://blog.hubspot.com/sales/sales-pitch-examples)
+- [Consulting vs contracting- Everything you need to know](https://www.technicalfreelanceracademy.com/post/consulting-vs-contracting-everything-you-need-to-know)
 - [Pricing Strategy(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080208-how-do-you-decide-your-pricing-strategy)
 - [Consulting Vs Contracting(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743513-consulting-vs-contracting)
 - [How To Kill Your Profits As A Consultant(Free)](https://dcubed.substack.com/p/how-to-kill-your-profits-as-a-data)
