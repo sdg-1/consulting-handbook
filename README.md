@@ -123,4 +123,3 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
   
 ## Courses
 - [Technical Freelancer Academy(Paid)](https://courses.technicalfreelanceracademy.com/courses/starting-6-7-figure-consulting)
-- [Hands On 90-day accelerator - Starting an Independent Consulting(Paid)](https://forms.gle/H9fzr1z21aiDGwH38)
