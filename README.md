@@ -55,6 +55,7 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 
 - [Buidling A Website and Online Presence(Free)](https://www.youtube.com/watch?v=oSeU8X5uuvs)
 - [How To Get Clients(Free)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743748-intro-to-getting-clients)
+- [What Should You Charge As A Data Consultant(Free)](https://www.technicalfreelanceracademy.com/post/what-should-i-charge-as-a-data-analytics-consultant)
 - [Client Acquisition - Networking]() #TODO Write this article
 - [Client Acquisition - Marketing(Free)](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
 - [Client Acquisition - Sale(Free)s](https://dcubed.substack.com/p/how-to-sell-your-data-consulting)
