@@ -64,7 +64,7 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 - [Client Acquisition - Referrals(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/48562280-using-client-referrals-to-sell)
 - [Develop a Sales Pitch(Free)](https://blog.hubspot.com/sales/sales-pitch-examples)
 - [Consulting vs contracting- Everything you need to know](https://www.technicalfreelanceracademy.com/post/consulting-vs-contracting-everything-you-need-to-know)
-- [Pricing Strategy(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080208-how-do-you-decide-your-pricing-strategy)
+- [Pricing Strategy(Paid)](https://the-technical-freelancer-academy.circle.so/c/pricing-discussions/how-much-should-you-charge-as-a-consultant)
 - [Setting Fees As A Consultant - Different Pricing Tiers](https://the-technical-freelancer-academy.circle.so/c/pricing-discussions/setting-fees-as-a-consultant-different-pricing-tiers)
 - [Why You Shouldn't Price Hourly(Paid)](https://the-technical-freelancer-academy.circle.so/c/pricing-discussions/why-you-shouldn-t-price-hourly)
 - [Consulting Vs Contracting(Paid)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743513-consulting-vs-contracting)
