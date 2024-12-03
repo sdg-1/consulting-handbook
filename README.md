@@ -38,7 +38,7 @@ Also, I added in a (Free) or (Paid) tag to denote whether a resource requires a 
 ## Starting Your Consulting Company Path
 
 - Make the jump!
-- [Pick Your Niche(Free)](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743530-finding-a-niche) 
+- [Pick Your Niche(Free)](https://the-technical-freelancer-academy.circle.so/c/resources/finding-your-niche-as-a-consultant-in-2025) 
 - [Legal Setup(Free)](https://www.freshbooks.com/hub/startup/starting-small-business-legal-requirements)
 - [Get Insurance(Free)](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance)
 
